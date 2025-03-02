@@ -1,0 +1,11 @@
+roadmap:
+  - title: "Débuter en programmation"
+    children:
+      - title: "Choisir un langage"
+        children:
+          - title: "Python"
+          - title: "JavaScript"
+  - title: "Approfondir"
+    children:
+      - title: "Structures de données"
+      - title: "Algorithmes"
